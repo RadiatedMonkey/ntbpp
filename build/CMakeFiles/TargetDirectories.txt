@@ -1,0 +1,3 @@
+C:/Users/ruben/Documents/Projects/cpp/nbtpp/build/CMakeFiles/nbtc.dir
+C:/Users/ruben/Documents/Projects/cpp/nbtpp/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ruben/Documents/Projects/cpp/nbtpp/build/CMakeFiles/ZERO_CHECK.dir
